@@ -1,16 +1,16 @@
-BOT_TOKEN = "5764925353:AAG5YRJlGflpMwM66DnMB0GX9mj89IXhypY"
-API_ID = 13515342
-SESSION_STRING = "BQAnYflR2tluG_gQQ261MWyC0LLf23NducMQYtKtQ-L0Zx18Ljp3Oyb_P4uxLU139wPT-tM7FIqtzFhq8frwZ6IpOihedMoC6to9pWTJ_vxRKgptP-TXoRMPKTDM3AYiUrf--Peh9fuipeRb4g6H1UqUp4ihS6aCp2UMrkHBlborXOm6wMoN2z5WwxIUTyX4DrrgbSgP0JoKtNmUhFNjyYagfS4amPGbSkvquln8nuCUK3kqLihYfSSlroo0RF1aqC-EblCwEyySLG59BfAeAh8SPwK52Y7tn0hbEEMJytCULWd1UQZ1ZE7N0waRRkXDbwXNOk2TXdpEHf6yeCZ51eY4euNxRAA" # Check Readme to generate sessions; need for userbot
-API_HASH = "8cb1a48861ddd8063adb972a44b2b1f6"
+BOT_TOKEN = "5123144649:AAFB_xVewyvWfpUdRs9H7HKwZ33UbIM6Wl4"
+API_ID = 24747254
+SESSION_STRING = "1BVtsOMABu7n8TRl6vlN9w-btuKMDuXUDLHsSJAvCdrz10yvuwXh0UZYBZwzjZKUMINKviW78_RPCAJUbTkXoV4bpkNetFRJt5-lAeMPCmHtNwnifI2jdPzrbh1bbtb3I5BLuWOKKidO7ezCWGGRW7OoIbstf6zU9JKlxNJJvRChqW6kQmY6izwPKSWkn7ugwWIJYM6VO6VZaPXyjH2VF0_Jf0G1d3JGtX9zfPYRUuOcCXcIRH6vLWH-y2RWGsUrJW7zf14A30cJ-cVaKPtBXNOGMCUEIHitsalX624wg7N7qw5CtOdPw8zTHja2m7_X6UKddB5x5BNIzJ1jmv-uY61I5YOqh6QI=" # Check Readme to generate sessions; need for userbot
+API_HASH = "e1b6de2c5107859fad392721a18120a2"
 USERBOT_PREFIX = "/"
-PHONE_NUMBER = "+6285697204981"  # Need for Userbot
-SUDO_USERS_ID = [1293361587 ,1385170049]  # Sudo users have full access to everything, don't trust anyone
-LOG_GROUP_ID = -1001896097424
-GBAN_LOG_GROUP_ID = -1001896097424
-MESSAGE_DUMP_CHAT = -1001896097424
+PHONE_NUMBER = "+6285706756074"  # Need for Userbot
+SUDO_USERS_ID = [876054262 ,1471034132]  # Sudo users have full access to everything, don't trust anyone
+LOG_GROUP_ID = -1001621142077
+GBAN_LOG_GROUP_ID = -1001621142077
+MESSAGE_DUMP_CHAT = -1001621142077
 WELCOME_DELAY_KICK_SEC = 0
-MONGO_URL = "mongodb+srv://saga:saga@cluster0.bdv3ezf.mongodb.net/?retryWrites=true&w=majority"
-ARQ_API_KEY = "KXJZMV-APXUVH-IAKLMF-BUCFAA-ARQ"
+MONGO_URL = "mongodb+srv://mamen:Geasaputra123@cluster0.jzsv5hz.mongodb.net/?retryWrites=true&w=majority"
+ARQ_API_KEY = "QGFTNN-HPPJOS-KFQJQN-ZVABRF-ARQ"
 ARQ_API_URL = "https://arq.hamker.in"
 LOG_MENTIONS = False
 RSS_DELAY = 0  # In seconds
